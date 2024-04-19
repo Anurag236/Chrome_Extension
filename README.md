@@ -6,9 +6,9 @@ This project is a simple Chrome extension that displays a funny Joke when clicke
 ## Screenshots
 Here are some screenshots of the extension's interface:
 
-![Screenshot 1]![joke](https://github.com/Anurag236/Chrome_Extension/assets/102303316/f51830eb-3bed-4298-9df9-22f6e9052f51)
+![joke](https://github.com/Anurag236/Chrome_Extension/assets/102303316/f51830eb-3bed-4298-9df9-22f6e9052f51)
 
-![Screenshot 2]![joke2](https://github.com/Anurag236/Chrome_Extension/assets/102303316/b30f6079-5dbc-4edf-b150-c67bf8ea5abf)
+![joke2](https://github.com/Anurag236/Chrome_Extension/assets/102303316/b30f6079-5dbc-4edf-b150-c67bf8ea5abf)
 
 
 ## Installation
