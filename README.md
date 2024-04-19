@@ -1,7 +1,7 @@
 # Chrome Extension Project
 
 ## Description
-This project is a simple Chrome extension that displays a message when clicked. The extension's content is styled using HTML and CSS.
+This project is a simple Chrome extension that displays a funny Joke when clicked. The extension's content is styled using HTML ,CSS and JS.
 
 ## Installation
 To install and use this Chrome extension, follow these steps:
@@ -20,5 +20,3 @@ To install and use this Chrome extension, follow these steps:
 ## Customization
 You can customize the appearance of the extension content by modifying the HTML and CSS files in the project. Feel free to experiment with different styles, colors, and layouts to suit your preferences.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
