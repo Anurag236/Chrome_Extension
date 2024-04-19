@@ -6,7 +6,7 @@ This project is a simple Chrome extension that displays a funny Joke when clicke
 ## Screenshots
 Here are some screenshots of the extension's interface:
 
-![Screenshot 1](images/joke)
+![Screenshot 1](joke)
 
 
 ## Installation
