@@ -3,6 +3,12 @@
 ## Description
 This project is a simple Chrome extension that displays a funny Joke when clicked. The extension's content is styled using HTML ,CSS and JS.
 
+## Screenshots
+Here are some screenshots of the extension's interface:
+
+![joke](https://github.com/Anurag236/Chrome_Extension/assets/102303316/f51830eb-3bed-4298-9df9-22f6e9052f51)
+
+
 ## Installation
 To install and use this Chrome extension, follow these steps:
 1. Clone or download this repository to your local machine.
